@@ -38,7 +38,7 @@ calculator-app/
 
 ### 1️⃣ Clone Repository
 ```
-git clone https://github.com/your-username/calculator-app.git
+git clone https://github.com/Saikat-Pradhan/Calculator_using_React_Native.git
 cd calculator-app
 ```
 
