@@ -1,50 +1,68 @@
-# Welcome to your Expo app 👋
+# 🔢 React Native Calculator App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![React Native](https://img.shields.io/badge/Mobile-React%20Native-blue?logo=react)
+![Expo](https://img.shields.io/badge/Framework-Expo-lightblue?logo=expo)
+![React](https://img.shields.io/badge/Frontend-React-darkblue?logo=react)
 
-## Get started
+A minimal yet stylish **calculator app** built with **React Native + Expo**.  
+It supports basic arithmetic operations with a clean UI optimized for mobile devices.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🚀 Features
+- Simple and intuitive calculator interface
+- Supports addition, subtraction, multiplication, division
+- Clear (`C`) and equals (`=`) functionality
+- Responsive design with Expo
+- Easy to extend (scientific functions, themes, etc.)
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🧱 Tech Stack
+- **React Native** — mobile app framework
+- **React** — component-based UI
+- **Expo** — fast development & testing
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📂 Project Structure
+calculator-app/
+│
+├── App.tsx          # Main entry point
+├── components/      # Reusable UI components
+└── screens/         # Calculator screen
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## ⚙️ Installation & Setup
 
-When you're ready, run:
-
-```bash
-npm run reset-project
+### 1️⃣ Clone Repository
+```
+git clone https://github.com/your-username/calculator-app.git
+cd calculator-app
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 2️⃣ Install Dependencies
+```
+npm install <name_of_dependencies>
+```
 
-## Learn more
+###3️⃣ Run with Expo
+```
+npm start
+```
+### 4️⃣ Scan the QR code with the Expo Go app on your phone to launch the calculator.
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 📈 Future Improvements
 
-## Join the community
+- Add scientific functions (sqrt, sin, cos, etc.)
+- Dark mode / theme toggle
+- History of calculations
+- Animated button presses
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## ⭐ Support  
+If you like this project, don’t forget to give it a ⭐ on GitHub!
