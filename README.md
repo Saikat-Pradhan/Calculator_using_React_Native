@@ -12,7 +12,7 @@ It supports basic arithmetic operations with a clean UI optimized for mobile dev
 ## 🚀 Features
 - Simple and intuitive calculator interface
 - Supports addition, subtraction, multiplication, division
-- Clear (`C`) and equals (`=`) functionality
+- Clear (`AC`) and equals (`=`) functionality
 - Responsive design with Expo
 - Easy to extend (scientific functions, themes, etc.)
 
@@ -47,7 +47,7 @@ cd calculator-app
 npm install <name_of_dependencies>
 ```
 
-###3️⃣ Run with Expo
+### 3️⃣ Run with Expo
 ```
 npm start
 ```
