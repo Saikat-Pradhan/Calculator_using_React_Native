@@ -9,8 +9,8 @@ It supports basic arithmetic operations with a clean UI optimized for mobile dev
 
 ---
 
-## ## 📥 Download App
-[Click here](https://expo.dev/accounts/saikat-pradhan777/projects/Calculator_using_React_Native/builds/d55f9787-ec3e-47dd-bfa9-6c3f470a5171)
+## 📥 Download App
+Link: [Click here](https://expo.dev/accounts/saikat-pradhan777/projects/Calculator_using_React_Native/builds/d55f9787-ec3e-47dd-bfa9-6c3f470a5171)
 
 ---
 
