@@ -9,6 +9,11 @@ It supports basic arithmetic operations with a clean UI optimized for mobile dev
 
 ---
 
+## ## 📥 Download App
+[Click here]()
+
+---
+
 ## 🚀 Features
 - Simple and intuitive calculator interface
 - Supports addition, subtraction, multiplication, division
