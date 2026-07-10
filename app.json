@@ -1,10 +1,10 @@
 {
   "expo": {
     "name": "Calculator",
-    "slug": "Calculator",
+    "slug": "Calculator_using_React_Native",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/FontImage.jpg",
+    "icon": "./assets/images/FontImage.png",
     "scheme": "calculatorusingreactnative",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -20,18 +20,18 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "Calculator_using_React_Native"
+      "package": "com.saikatpradhan777.Calculator_using_React_Native"
     },
     "web": {
       "output": "static",
-      "favicon": "./assets/images/FontImage.jpg"
+      "favicon": "./assets/images/FontImage.png"
     },
     "plugins": [
       "expo-router",
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/FontImage.png",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff",
