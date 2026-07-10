@@ -37,11 +37,6 @@ export default function Calculator() {
 
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      {/* Title */}
-      <Text style={{ fontSize: 40, fontWeight: "bold", marginBottom: 20 }}>
-        Calculator
-      </Text>
-
       {/* Calculator Body */}
       <View
         style={{
