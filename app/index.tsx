@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Text, View, TouchableOpacity } from "react-native";
 
 // Define allowed key types
-type KeyValue = "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "." | "+" | "-" | "*" | "/" | "=" | "C";
+type KeyValue = "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "." | "+" | "-" | "*" | "/" | "=" | "AC";
 
 export default function Calculator() {
   const [input, setInput] = useState<string>("");
@@ -10,7 +10,7 @@ export default function Calculator() {
 
   // Explicitly type the parameter
   const handlePress = (value: KeyValue): void => {
-    if (value === "C") {
+    if (value === "AC") {
       setInput("");
       setResult("");
     } else if (value === "=") {
@@ -32,7 +32,7 @@ export default function Calculator() {
     "4", "5", "6", "*",
     "1", "2", "3", "-",
     "0", ".", "=", "+",
-    "C"
+    "AC"
   ];
 
   return (
