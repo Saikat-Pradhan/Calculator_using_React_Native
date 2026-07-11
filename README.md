@@ -49,7 +49,7 @@ cd calculator-app
 
 ### 2️⃣ Install Dependencies
 ```
-npm install <name_of_dependencies>
+npm install
 ```
 
 ### 3️⃣ Run with Expo
